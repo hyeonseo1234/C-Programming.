@@ -1,0 +1,7 @@
+﻿  Physics_Trainer_Chap2.cpp
+C:\미래모빌리티공학과\모빌리티프로그래밍\SHINhyeonseo\3장 25번 수정 수정\Physics_Trainer_Chap2\Physics_Trainer_Chap2\Physics_Trainer_Chap2.cpp(21,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\미래모빌리티공학과\모빌리티프로그래밍\SHINhyeonseo\3장 25번 수정 수정\Physics_Trainer_Chap2\Physics_Trainer_Chap2\Physics_Trainer_Chap2.cpp(50,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\미래모빌리티공학과\모빌리티프로그래밍\SHINhyeonseo\3장 25번 수정 수정\Physics_Trainer_Chap2\Physics_Trainer_Chap2\Physics_Trainer_Chap2.cpp(90,39): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\미래모빌리티공학과\모빌리티프로그래밍\SHINhyeonseo\3장 25번 수정 수정\Physics_Trainer_Chap2\Physics_Trainer_Chap2\Physics_Trainer_Chap2.cpp(90,39): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 3개가 제공되었습니다.
+C:\미래모빌리티공학과\모빌리티프로그래밍\SHINhyeonseo\3장 25번 수정 수정\Physics_Trainer_Chap2\Physics_Trainer_Chap2\Physics_Trainer_Chap2.cpp(108,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Physics_Trainer_Chap2.vcxproj -> C:\미래모빌리티공학과\모빌리티프로그래밍\SHINhyeonseo\3장 25번 수정 수정\Physics_Trainer_Chap2\x64\Debug\Physics_Trainer_Chap2.exe
